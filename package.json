@@ -1,0 +1,15 @@
+{
+  "name": "wed-design",
+  "version": "0.0.0",
+  "description": "Practice web design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "less": "lessc css/style.less css/style.css --source-map=css/style.css.map"
+  },
+  "author": "pen-y-fan",
+  "license": "MIT",
+  "dependencies": {
+    "less": "^3.12.2"
+  }
+}

@@ -1,0 +1,36 @@
+@primary-colour: #339933;
+@primary-colour-lighter: lighten(@primary-colour, 50%);
+
+* {
+
+}
+
+hr {
+  border-top: 2px solid @primary-colour;
+}
+
+body {
+  color: black;
+
+  nav {
+    background-color: @primary-colour
+  }
+}
+
+a {
+  color: black;
+}
+
+section {
+  h1, h2, h3 {
+    color: @primary-colour
+  }
+}
+
+.light-background {
+  background-color: @primary-colour-lighter;
+}
+
+.primary-colour {
+  color: @primary-colour;
+}

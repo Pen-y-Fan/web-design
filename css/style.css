@@ -1,0 +1,24 @@
+hr {
+  border-top: 2px solid #339933;
+}
+body {
+  color: black;
+}
+body nav {
+  background-color: #339933;
+}
+a {
+  color: black;
+}
+section h1,
+section h2,
+section h3 {
+  color: #339933;
+}
+.light-background {
+  background-color: #d9f2d9;
+}
+.primary-colour {
+  color: #339933;
+}
+/*# sourceMappingURL=style.css.map */
